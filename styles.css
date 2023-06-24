@@ -7,7 +7,7 @@
 	background-color:#011e29;
 	color : white;
 	text-align:center;
-	padding-block:10px;
+/* 	padding-block:10px; */
 }
 .latest-news-section{
 	float : left;
@@ -15,6 +15,7 @@
 	background-color:white;
 	width : 25%;
 	border-radius:5%
+	pading:20px;
 	}
 .MA{
 	float : left;
@@ -22,11 +23,11 @@
 	background-color:white;
 	width : 25%;
 	border-radius:5%
-	margin-left:50px;
+	margin-left:100px;
 	padding : 20px;
 	text-align:center;
 	justify-content:center;
-	padding : 25;
+	
 }
 .pictorial-news-section{
 	float : right;
@@ -35,7 +36,7 @@
 	background-color:white;
 	width : 40%;
 	border-radius:5%
-	padding : 25%
+	padding : 20px;
 }
 .fullbody{
 	justify-content : center;
